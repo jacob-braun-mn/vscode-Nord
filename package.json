@@ -59,9 +59,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Nord",
+        "label": "Nord-JBraun",
         "uiTheme": "vs-dark",
-        "path": "./themes/nord-color-theme.json"
+        "path": "./themes/nord-color-theme-jbraun.json"
       }
     ]
   },
